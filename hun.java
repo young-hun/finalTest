@@ -4,5 +4,6 @@ public class hun{
 			System.out.print("after");
 			System.out.println(i);
 		}
+		System.out.println("last put");
 	}
 }
